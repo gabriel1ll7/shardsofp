@@ -1,0 +1,13 @@
+# This file ensures that the images directory is included in git repositories.
+# 
+# Required images for this project:
+# - logo.png - Server logo
+# - logo-footer.png - Footer version of the logo
+# - hero-bg.jpg - Hero section background
+# - axiom-town.jpg - Image of the town of Axiom
+# - features-bg.jpg - Features section background
+# - server-bg.jpg - Server information section background
+# - discord-community.jpg - Discord community image
+# - avatar-1.jpg, avatar-2.jpg, avatar-3.jpg - Testimonial avatars
+# - gallery-1.jpg through gallery-4.jpg - Community gallery images
+# - news-1.jpg, news-2.jpg, news-3.jpg - News post images 
