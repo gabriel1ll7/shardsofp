@@ -107,6 +107,9 @@ The landing page is compatible with:
 
 This project is available for use under the [MIT License](LICENSE).
 
+## GitHub Pages
+This site is hosted on GitHub Pages at https://gabriel1ll7.github.io/shardsofp/
+
 ---
 
 *"In the vast expanse of a fractured world, Axiom stands as a beacon for wanderers and adventurers alike."* 
